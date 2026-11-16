@@ -157,7 +157,8 @@ implemented through practical projects.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/a-reena-joseline]
+- LinkedIn: [Reena Joseline](www.linkedin.com/in/a-reena-joseline)
+
   
 ---
 

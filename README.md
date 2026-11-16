@@ -124,12 +124,9 @@ measurement interpretation, and documentation for defense equipment.
 
 ## 📚 Currently Learning
 
-- Advanced RF & Microwave Engineering
 - Antenna Engineering
 - Electromagnetics
-- ANSYS HFSS
 - Signal Processing
-- Control Systems
 - Machine Learning
 - Artificial Intelligence
 - Data Structures & Algorithms
